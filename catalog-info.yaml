@@ -7,7 +7,7 @@ metadata:
     github.com/project-slug: external-spotify-portal-demo/hello-world-11-14
     backstage.io/techdocs-ref: dir:.
     grafana/dashboard-selector: timeline-demo
-    grafana/overview-dashboard: timeline-demo
+    grafana/overview-dashboard: https://play.grafana.org/d/timeline-demo/timeline-demo?orgId=1&from=now-1h&to=now&timezone=utc
 spec:
   type: website
   lifecycle: experimental
